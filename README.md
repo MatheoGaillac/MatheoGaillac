@@ -57,13 +57,9 @@
 - **Extras**:
 
 	![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-<br><br>
+<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
-	<a href="https://github.com/MatheoGaillac/">
-		![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheoGaillac&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-	</a>
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheoGaillac&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
